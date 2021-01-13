@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <breakfast-menu>
-	<!-- Hello! -->
     <food id="1">
         <name>Belgian Waffles</name>
         <price>$5.95</price>
@@ -9,5 +8,4 @@
         <name>Strawberry Belgian Waffles</name>
         <price>$7.95</price>
     </food>
-    <!-- Bye! -->
 </breakfast-menu>
